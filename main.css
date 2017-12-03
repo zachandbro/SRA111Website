@@ -4,6 +4,20 @@
     left: 50%;
 }
 
+#bgimage{
+	position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('mac.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    opacity: 0.4;
+    filter:alpha(opacity=40);
+}
+
 #modalz {
     position:fixed;
     top: 50%;
