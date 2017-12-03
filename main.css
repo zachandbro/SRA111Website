@@ -1,3 +1,9 @@
+#title {
+	position:fixed;
+    margin-left: -20em;
+    left: 50%;
+}
+
 #modalz {
     position:fixed;
     top: 50%;
