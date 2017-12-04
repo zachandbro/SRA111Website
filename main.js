@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
-    $('#One').modal({dismissible: true});
-    $('#Two').modal({dismissible: true});
-    $('#Three').modal({dismissible: true});
+    $('#One').modal();
+    $('#Two').modal();
+    $('#Three').modal();
  
  });
